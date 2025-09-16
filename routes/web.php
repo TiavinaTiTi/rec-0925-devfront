@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+// Routes personnalisées pour Randianoelison
+Route::view('/randianoelison-completez-votre-reservation', 'completez-votre-reservation');
+Route::view('/randianoelison-paiement', 'paiement');
