@@ -137,7 +137,7 @@
         </div>
         <div class="lg:w-1/3">
             <div class="sticky top-8">
-                <div class="mx-auto w-full max-w-sm sm:max-w-md lg:max-w-lg xl:max-w-xl bg-white rounded-lg shadow-sm px-4 sm:px-6 py-6">
+                <div class="mx-auto w-full max-w-sm sm:max-w-full lg:max-w-lg xl:max-w-xl bg-white rounded-lg shadow-sm px-4 sm:px-6 py-6">
                     <h1 class="text-lg sm:text-xl lg:text-2xl font-semibold text-[#BF2A6B] mb-6">Récapitulatif de votre test psychotechnique</h1>
                     <div class="mb-6">
                         <p class="text-gray-600 text-lg sm:text-xl">Total à payer : <span class="font-semibold text-[#2A2A2A]">130.00€</span></p>
@@ -146,7 +146,7 @@
                         <p class="text-sm sm:text-md text-gray-600 leading-relaxed">En passant votre commande, vous acceptez les conditions générales de vente de la société AAAEP. Veuillez consulter notre politique de protection des données.</p>
                     </div>
                 </div>
-                <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 px-4 sm:px-0 mt-4">
+                <div class="grid grid-cols-3 gap-6 px-4 sm:px-0 my-8">
                     <div class="text-center">
                         <div class="w-12 h-12 mx-auto mb-3 bg-white shadow-md rounded-full flex items-center justify-center">
                             <svg class="h-6 w-6 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
