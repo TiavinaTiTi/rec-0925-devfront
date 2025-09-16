@@ -1,3 +1,10 @@
+# Aperçu de l'application
+
+## Page Paiement
+![Aperçu paiement](./Screencapture-randianoelison-paiement.png)
+
+## Page Complétez votre réservation
+![Aperçu réservation](./Screencapture-randianoelison-completez-votre-reservation.png)
 # Test technique — Dev Front
 
 ## Objectif
