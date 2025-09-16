@@ -16,9 +16,8 @@
 
 <body class="bg-gray-50 font-sans">
     <nav class="bg-white">
-    <div class="container mx-auto xl:max-w-[1280px] 2xl:max-w-[1720px] w-full px-4 md:py-[19px]">
-            <img src="{{ asset('images/logo.png') }}" alt="logo"
-                class="h-[78px] w-[312px] object-contain" />
+        <div class="container mx-auto xl:max-w-[1280px] 2xl:max-w-[1720px] w-full px-4 md:py-[19px]">
+            <img src="{{ asset('images/logo.png') }}" alt="logo" class="h-[78px] w-[312px] object-contain" />
         </div>
         <div class="shadow-[0px_3px_14px_#00000029] pt-[42px] pb-[39px]">
             <div class="container mx-auto xl:max-w-[1280px] 2xl:max-w-[1720px] w-full px-4 md:p-0">
